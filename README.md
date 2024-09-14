@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello 👋
+My name is Lee DaYoung.
+My major is software engineering.
 <!--
 **dayoung0311/dayoung0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
