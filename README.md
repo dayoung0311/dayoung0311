@@ -1,4 +1,4 @@
-# Hi, I'm Dayoung! 👋
+# Hi, I'm Dayoung❕🙌
 
 - 🌱 I’m currently learning **React** and **C**
 - 💻 Major: **Software**
