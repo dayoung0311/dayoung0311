@@ -7,7 +7,7 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayoung0311&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanade012&show_icons=true&theme=tokyonight)
 
 ### 🛠 기술 스택
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
