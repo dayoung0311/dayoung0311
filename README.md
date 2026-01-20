@@ -1,8 +1,8 @@
-# Hi, I'm Dayoung❕🙌
+# Hi, I'm Dayoung❕
 
-- 🌱 I’m currently learning **React** and **C++**
-- 💻 Major: **Software**
-- 🎯 2025 Goal: Enhance my **GitHub profile** and contribute to open source.
+-  I’m currently learning **React** and **C++**
+-  Major: **Software**
+-  2025 Goal: Enhance my **GitHub profile** and contribute to open source.
 
 ---
 
