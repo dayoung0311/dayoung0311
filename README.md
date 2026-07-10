@@ -1,10 +1,13 @@
-# Hi, I'm Dayoung 👋
+# Hi, I'm Dayoung 
 
 **사용자 경험을 중요하게 생각하는 백엔드 개발자 이다영입니다.**
 
+[![Portfolio](https://img.shields.io/badge/📁_Portfolio_보러가기-000000?style=for-the-badge)](https://github.com/dayoung0311/ovc-project)
+[![Demo](https://img.shields.io/badge/🎬_시연_영상-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1Mdo31ZZCPMoWtZdxJgOVl8FW6PZCMWs5/view)
+
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**
 
@@ -33,7 +36,7 @@
 
 <br>
 
-## 📌 Projects
+## Projects
 
 ### 1. BBD ERP — Procurement Service
 
@@ -53,14 +56,15 @@
 
 <br>
 
-### 3. OVC Project
+### 3. Boyage — 2025 AI 학술제
 
-> {한 줄 설명 — 프로젝트 소개 필요} · [Repository](https://github.com/dayoung0311/ovc-project) · [시연 영상](https://drive.google.com/file/d/1Mdo31ZZCPMoWtZdxJgOVl8FW6PZCMWs5/view)
+> 취향과 계획을 바탕으로 AI가 여행 경로·일정을 자동으로 설계하고, 다녀온 지역이 지도에 색칠되는 여행 일기·기사 통합 플랫폼
+> [Repository](https://github.com/dayoung0311/2025_AI_Academic-Festival) · [Live](https://2025-ai-academic-festival.vercel.app/home)
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `TanStack Query`
+`React` `Firebase` `Gemini API` `Google Maps API` `Vercel`
 
 <br>
 
-## 📫 Contact
+## Contact
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:{이메일 주소})
+[![Email](https://img.shields.io/badge/dayounglee0311@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dayounglee0311@gmail.com)
