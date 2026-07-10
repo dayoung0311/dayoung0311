@@ -1,5 +1,4 @@
 # Hi, I'm Dayoung 
-
 **사용자 경험을 중요하게 생각하는 풀스택 개발자 이다영입니다!**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://github.com/dayoung0311/ovc-project)
