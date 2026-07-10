@@ -40,6 +40,7 @@
 ### 1. BBD ERP — Procurement Service
 
 > 마이크로서비스 기반 ERP 시스템 · **구매(Procurement) 도메인 백엔드 담당**
+> <br>
 > [Repository](https://github.com/BBD-AES/procurement)
 
 `Spring Boot` `Kafka` `PostgreSQL` `Redis` `Keycloak` `AWS ECS` `Docker`
