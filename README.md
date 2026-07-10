@@ -2,8 +2,7 @@
 
 **사용자 경험을 중요하게 생각하는 백엔드 개발자 이다영입니다!**
 
-&nbsp;&nbsp;**[Portfolio ↗](https://github.com/dayoung0311/ovc-project)** &nbsp;·&nbsp; **[시연 영상 ↗](https://drive.google.com/file/d/1Mdo31ZZCPMoWtZdxJgOVl8FW6PZCMWs5/view)**
-
+**[Portfolio ↗](https://github.com/dayoung0311/ovc-project)** 
 <br>
 
 ## Tech Stack
