@@ -39,7 +39,6 @@
 ### 1. BBD ERP — Procurement Service
 
 > 마이크로서비스 기반 ERP 시스템 · **구매(Procurement) 도메인 백엔드 담당**
-<br>
 [Repository](https://github.com/BBD-AES/procurement)
 
 `Spring Boot` `Kafka` `PostgreSQL` `Redis` `Keycloak` `AWS ECS` `Docker`
@@ -49,7 +48,6 @@
 ### 2. 4Beat
 
 > 친구 그룹 안에서 정해진 순서대로 음악과 짧은 영상을 공유하는 SNS · **백엔드 개발**
-<br>
 [Repository](https://github.com/dayoung0311/4Beat-Backend)
 
 `Spring Boot` `Spring Data JPA` `PostgreSQL` `AWS S3` `Docker Compose`
@@ -59,7 +57,6 @@
 ### 3. Boyage — 2025 AI 학술제
 
 > 취향과 계획을 바탕으로 AI가 여행 경로·일정을 자동으로 설계하고, 다녀온 지역이 지도에 색칠되는 여행 일기·기사 통합 플랫폼
-<br>
 [Repository](https://github.com/dayoung0311/2025_AI_Academic-Festival) · [Live](https://2025-ai-academic-festival.vercel.app/home)
 
 `React` `Firebase` `Gemini API` `Google Maps API` `Vercel`
