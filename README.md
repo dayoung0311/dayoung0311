@@ -1,8 +1,6 @@
 # Hi, I'm Dayoung 
 
-**사용자 경험을 중요하게 생각하는 풀스택 개발자 이다영입니다!**
-
-**[Portfolio ↗](https://github.com/dayoung0311/ovc-project)** 
+**사용자 경험을 중요하게 생각하는 풀스택 개발자 이다영입니다!** &nbsp; **[Portfolio ↗](https://github.com/dayoung0311/ovc-project)** 
 <br>
 
 ## Tech Stack
